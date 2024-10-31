@@ -2,7 +2,7 @@ package run;
 
 import org.testng.annotations.Test;
 
-public class ClassRun {
+public class ClassRunTest {
 
 	@Test
 	public void run() {
